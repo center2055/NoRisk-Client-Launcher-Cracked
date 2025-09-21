@@ -1,0 +1,33 @@
+# Node
+node_modules/
+.npm/
+.pnp.*
+yarn-error.log
+
+# Vite/React build
+dist/
+.vite/
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tauri/Rust build outputs
+src-tauri/target/
+target/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.tmp
+*.swp
