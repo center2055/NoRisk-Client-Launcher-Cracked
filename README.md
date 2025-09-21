@@ -5,6 +5,15 @@ This repository is a fork of the official NoRisk Client Launcher. You can compil
 - Build it yourself: see Compile it yourself below
 - Or download the newest version from Releases once published
 
+## What's changed in this fork
+- Offline account support (username-only, no Microsoft login)
+- Account manager UI: username field + compact ADD button
+- Minor UX polish and README clarifications
+- Packaging: Windows NSIS installer in Releases
+
+## UI preview (placeholder)
+![UI preview placeholder](docs/images/ui-preview-placeholder.png)
+
 ## Issues
 
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/NoRiskClient/issues/issues/new/choose).
